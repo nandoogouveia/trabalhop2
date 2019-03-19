@@ -8,10 +8,10 @@
 		}
 
  .rcorners3 {
-			border-radius: 300px;
-			padding: 0px;
-			width: 120px;
-			height: 120px; 
+			border-radius: 600px;
+			padding: 00px;
+			width: 200px;
+			height: 200px; 
 			border: 5px solid #000000;
 
 		}
@@ -24,6 +24,7 @@
 			padding:20px;
 			margin-right: 0px;
 			margin-left:  0px;
+			margin-top: 200px;
 			border: 5px solid #000000;
 			text-align: center;
 			
