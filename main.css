@@ -1,5 +1,12 @@
 /*Estrutura de CSS*/
 
+  body {
+			font-family: Helvetica, Verdana, Geneva, sans-serif;
+			color:#000;
+			background-image: url(../imagens/backgroundsetmusic.jpg); 
+			
+		}
+
  .rcorners3 {
 			border-radius: 300px;
 			padding: 0px;
